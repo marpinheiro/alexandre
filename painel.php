@@ -99,7 +99,7 @@ include('proteger.php');
     </nav>
 
     <main>
-        <h1></h1>
+        <div id="conteudo"></div>
     </main>
     <script src="src/javascript/script.js"></script>
 </body>
